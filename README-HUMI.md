@@ -1,3 +1,9 @@
+# Deprecated
+
+Please use the strippe down version of laradock here
+https://github.com/Humi-HR/docker
+
+
 # Humidock
 
 Humidock is the local hosting platform for Humi applications. Humidock is a fork of Laradock, and it uses Docker.
