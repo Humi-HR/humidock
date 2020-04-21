@@ -1,4 +1,4 @@
-# Deprecated
+# ⛔ Deprecated
 
 Please use the strippe down version of laradock here
 https://github.com/Humi-HR/docker
